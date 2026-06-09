@@ -1,1 +1,1 @@
-print("mani")
+print("manikanta")
